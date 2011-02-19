@@ -1,0 +1,8 @@
+D:\Projects\C#\Resizer\bin\Debug\WinResizer.exe
+D:\Projects\C#\Resizer\bin\Debug\WinResizer.pdb
+D:\Projects\C#\Resizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\Resizer\obj\Debug\Resizer.frmMain.resources
+D:\Projects\C#\Resizer\obj\Debug\WinResizer.Properties.Resources.resources
+D:\Projects\C#\Resizer\obj\Debug\WinResizer.csproj.GenerateResource.Cache
+D:\Projects\C#\Resizer\obj\Debug\WinResizer.exe
+D:\Projects\C#\Resizer\obj\Debug\WinResizer.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinResizer", "WinResizer.csproj", "{001ACB9C-1210-43F0-A622-9F52A3FFC10C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001ACB9C-1210-43F0-A622-9F52A3FFC10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001ACB9C-1210-43F0-A622-9F52A3FFC10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001ACB9C-1210-43F0-A622-9F52A3FFC10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001ACB9C-1210-43F0-A622-9F52A3FFC10C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

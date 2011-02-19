@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>-title:"Counter-Strike Source" -params:"1,1,1,0,0,0,0,0,1,1920,1200,0,0,0" -apply</StartArguments>
+  </PropertyGroup>
+</Project>
