@@ -254,9 +254,10 @@ namespace Resizer
                 args += cboMonitors.SelectedIndex.ToString();
 
                 string P = "-title:\"" + title + "\" -params:\"" + args + "\" -apply";
+                string PP = "-title:\"" + title + "\"\n-params:\"" + args + "\"\n-apply";
 
                 Clipboard.SetText(P);
-                MessageBox.Show("The parameters for the shortcut are:\n\n" + P + "\n\nThey have been placed on your clipboard so you can paste them.");
+                MessageBox.Show("The parameters for the shortcut are:\n\n" + PP + "\n\nThey have been placed on your clipboard so you can paste them.");
             }
             catch (Exception err)
             {

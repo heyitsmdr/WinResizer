@@ -6,3 +6,11 @@ D:\Projects\C#\Resizer\obj\Debug\WinResizer.Properties.Resources.resources
 D:\Projects\C#\Resizer\obj\Debug\WinResizer.csproj.GenerateResource.Cache
 D:\Projects\C#\Resizer\obj\Debug\WinResizer.exe
 D:\Projects\C#\Resizer\obj\Debug\WinResizer.pdb
+D:\GitRepository\WinResizer\obj\Debug\WinResizer.exe
+D:\GitRepository\WinResizer\obj\Debug\WinResizer.pdb
+D:\GitRepository\WinResizer\bin\Debug\WinResizer.exe
+D:\GitRepository\WinResizer\bin\Debug\WinResizer.pdb
+D:\GitRepository\WinResizer\obj\Debug\ResolveAssemblyReference.cache
+D:\GitRepository\WinResizer\obj\Debug\Resizer.frmMain.resources
+D:\GitRepository\WinResizer\obj\Debug\WinResizer.Properties.Resources.resources
+D:\GitRepository\WinResizer\obj\Debug\WinResizer.csproj.GenerateResource.Cache
